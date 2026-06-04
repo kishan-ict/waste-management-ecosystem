@@ -71,7 +71,7 @@ export default function KabadiLayout({ children }: { children: React.ReactNode }
       >
         <div className="p-4 flex items-center gap-3 border-b border-gp-800/40 h-16">
           <div className="w-8 h-8 bg-gp-gradient rounded-lg flex items-center justify-center flex-shrink-0">
-            <Recycle className="w-4 h-4 text-neon-lime" />
+            <img src="/logo_icon.png" alt="GREENPACK Logo" className="w-6 h-6 object-contain" />
           </div>
           {(!isMobile ? sidebarOpen : true) && (
             <motion.span initial={{ opacity: 0 }} animate={{ opacity: 1 }}

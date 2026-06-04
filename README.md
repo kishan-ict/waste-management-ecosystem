@@ -19,9 +19,15 @@ GREENPACK is a next-generation platform designed to connect waste collectors (Ka
 
 **Experience the platform live:** [greenpack.pages.dev](https://greenpack.pages.dev)
 
-Watch how seamless it is to authenticate into the platform. Choose your role, auto-fill the demo credentials, and instantly access your dedicated dashboard!
+Follow these step-by-step instructions to experience the live platform:
 
-![Login Flow Demo](./demo.webp)
+1. **Navigate to the Login Page**: Click the **Sign In** button in the top-right corner of the landing page, or go directly to [greenpack.pages.dev/auth/login](https://greenpack.pages.dev/auth/login).
+2. **Select Your Role**: Choose one of the three available portal roles:
+   - **Kabadiwala** (Collection center / broker dashboard)
+   - **Industry** (Recycling manufacturer dashboard)
+   - **Admin** (Platform administrator dashboard)
+3. **Auto-Fill Demo Credentials**: Click the **Auto-fill** button in the dashed box at the bottom of the card to automatically load the verified demo credentials.
+4. **Sign In**: Press the **Sign In** button to instantly authenticate and access your selected role's dedicated, real-time dashboard.
 
 ---
 

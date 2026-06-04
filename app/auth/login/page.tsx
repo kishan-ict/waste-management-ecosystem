@@ -75,7 +75,7 @@ function LoginContent() {
           {/* Logo */}
           <div className="flex items-center gap-3 mb-8">
             <div className="w-10 h-10 bg-gp-gradient rounded-xl flex items-center justify-center">
-              <Recycle className="w-5 h-5 text-neon-lime" />
+              <img src="/logo_icon.png" alt="GREENPACK Logo" className="w-7 h-7 object-contain" />
             </div>
             <span className="font-display font-bold text-xl">
               <span className="gradient-text">GREEN</span><span className="text-white/80">PACK</span>

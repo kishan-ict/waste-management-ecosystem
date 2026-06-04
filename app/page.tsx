@@ -103,7 +103,7 @@ function Navbar() {
           <div className="relative w-10 h-10">
             <div className="absolute inset-0 bg-gp-gradient rounded-xl" />
             <div className="absolute inset-0 flex items-center justify-center">
-              <Recycle className="w-5 h-5 text-neon-lime" strokeWidth={2.5} />
+              <img src="/logo_icon.png" alt="GREENPACK Logo" className="w-7 h-7 object-contain" />
             </div>
             <div className="absolute inset-0 rounded-xl animate-glow-pulse opacity-50" />
           </div>
@@ -770,7 +770,7 @@ function Footer() {
           <div className="col-span-2 md:col-span-1">
             <div className="flex items-center gap-3 mb-4">
               <div className="w-8 h-8 bg-gp-gradient rounded-lg flex items-center justify-center">
-                <Recycle className="w-4 h-4 text-neon-lime" />
+                <img src="/logo_icon.png" alt="GREENPACK Logo" className="w-6 h-6 object-contain" />
               </div>
               <span className="font-display font-bold gradient-text">GREENPACK</span>
             </div>
