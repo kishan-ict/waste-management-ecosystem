@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="padding: 10px; border-radius: 20px; background: rgba(84, 106, 47, 0.1); display: inline-block;">
-    <h1 style="margin: 0; font-size: 3em; background: -webkit-linear-gradient(45deg, #39FF14, #B5FF5A); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GREENPACK</h1>
-  </div>
+  <img src="./public/logo_transparent.png" alt="GREENPACK Logo" width="360" />
   <p><b>Revolutionizing the Recycling Supply Chain with AI & Blockchain</b></p>
 </div>
 
