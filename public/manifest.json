@@ -1,0 +1,21 @@
+{
+  "name": "GREENPACK Mobile",
+  "short_name": "GREENPACK",
+  "description": "AI-Powered Trust & Intelligence for Waste Ecosystem",
+  "start_url": "/mobile/kabadiwala",
+  "display": "standalone",
+  "background_color": "#0D1208",
+  "theme_color": "#0D1208",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
